@@ -1,0 +1,21 @@
+name: flutter_gravatar_utils
+description: A new Flutter project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  crypto: ^3.0.2
+  flutter_cache_manager: ^3.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
